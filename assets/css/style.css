@@ -1070,6 +1070,10 @@ hr {
 .header-one.sticky .logo-2 {
   display: block;
 }
+.logo-2 {
+  max-height: 50px;
+  width: auto;
+}
 .header-one.sticky .hamburger_button span {
   background: #322fb3;
 }
