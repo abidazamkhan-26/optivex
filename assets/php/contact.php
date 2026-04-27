@@ -27,7 +27,7 @@ header("Access-Control-Allow-Origin: *");
         $recipient = "yourmail@gmail.com";
 
         // Set the email subject.
-        $subject = "Avers - Mail From $first_name";
+        $subject = "Optivex - Mail From $first_name";
 
         // Build the email content.
         $email_content = "Name: $first_name\n";
