@@ -15104,8 +15104,8 @@ hr {
 /*  Modern Footer Styles
 /*----------------------------------------*/
 .footer-modern {
-  background-color: #0b0d17;
-  color: #abb1c3;
+  background-color: #ffffff;
+  color: #333333;
   padding: 0;
   font-family: "Poppins", sans-serif;
   position: relative;
@@ -15147,10 +15147,10 @@ hr {
 }
 
 .footer-widget .widget-title {
-  color: #fff;
+  color: #333333;
   font-size: 20px;
   font-weight: 600;
-  margin-bottom: 30px;
+  margin-bottom: 25px;
   position: relative;
 }
 
@@ -15167,6 +15167,7 @@ hr {
 .brand-text {
   margin: 25px 0;
   line-height: 1.8;
+  color: #666666;
 }
 
 .social-links {
@@ -15177,12 +15178,12 @@ hr {
 .social-links a {
   width: 40px;
   height: 40px;
-  background-color: rgba(255, 255, 255, 0.05);
+  background-color: #f8f9fa;
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  color: #fff;
+  color: #333333;
   transition: all 0.3s ease;
 }
 
@@ -15202,12 +15203,12 @@ hr {
 }
 
 .widget-links li a {
-  color: #abb1c3;
+  color: #666666;
   transition: all 0.3s ease;
 }
 
 .widget-links li a:hover {
-  color: #fff;
+  color: #322fb3;
   padding-left: 10px;
 }
 
@@ -15219,10 +15220,10 @@ hr {
 .newsletter-form-modern input {
   width: 100%;
   padding: 15px 50px 15px 20px;
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: #f8f9fa;
+  border: 1px solid #e9ecef;
   border-radius: 30px;
-  color: #fff;
+  color: #333333;
   outline: none;
 }
 
@@ -15256,6 +15257,7 @@ hr {
   gap: 10px;
   margin-bottom: 10px;
   font-size: 14px;
+  color: #666666;
 }
 
 .contact-mini li i {
@@ -15263,9 +15265,9 @@ hr {
 }
 
 .footer-bottom-modern {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: #f8f9fa;
   padding: 25px 0;
-  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  border-top: 1px solid #e9ecef;
 }
 
 .bottom-inner {
@@ -15279,10 +15281,11 @@ hr {
 .copyright-text {
   margin: 0;
   font-size: 14px;
+  color: #666666;
 }
 
 .copyright-text span {
-  color: #fff;
+  color: #322fb3;
   font-weight: 600;
 }
 
@@ -15296,11 +15299,11 @@ hr {
 
 .footer-legal-links a {
   font-size: 14px;
-  color: #abb1c3;
+  color: #666666;
 }
 
 .footer-legal-links a:hover {
-  color: #fff;
+  color: #322fb3;
 }
 
 @media (max-width: 991px) {
